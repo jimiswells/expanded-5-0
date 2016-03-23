@@ -62,13 +62,25 @@ article {
 }
 
 
+.orbit-container {
+    margin-top: -113px !important;
+    max-height:800px;
+}
+
+
+
+
+
+
+
+
 .intro {
     position: relative;
     padding: 10% 5% 10% 5%;
     background-image: url(/assets/img/IMG_3378.jpg);
     background-size:cover;
     background-position:center;
-    margin-top:-113px;
+    
     background-color: #fff;
       -webkit-filter: grayscale(100%); 
     filter: grayscale(100%);
@@ -85,18 +97,48 @@ article {
     }
     
     .container {
-         height:500px;
-       /* background-image: url(/assets/img/circle.svg);
+        height:500px;
+        /*background-image: url(/assets/img/circle.svg);
         background-repeat:no-repeat;
         background-position: center;
         background-size:30%;
        
             -webkit-box-shadow: 0 30px 50px #edbaa1;
-    box-shadow: 0 30px 50px #edbaa1;
+        box-shadow: 0 30px 50px #edbaa1;
+        transition: box-shadow .4s cubic-bezier(.165,.84,.44,1),-webkit-box-shadow .4s cubic-bezier(.165,.84,.44,1);
    
     width: 40%;
     z-index: 1;*/
 }
+    
+    /*.container:hover {
+        animation: box 1s forwards;
+        
+       
+    }*/
+    
+        @keyframes box {
+    0% {
+         -webkit-box-shadow: 0 30px 50px #edbaa1;
+       
+    }
+        
+     20% {
+       
+        
+    }
+        
+    40% {
+       
+        
+    }
+    100% {
+       box-shadow: 0 80px 90px #edbaa1;
+      
+    }
+}
+    
+    
     
     
     
@@ -221,13 +263,13 @@ video {
     left: 50%;
     min-width: 100%;
     min-height: 100%;
-    width: auto;
+    width: 100%;
     height: auto;
-    z-index: -100;
+    
     transform: translateX(-50%);
     background: url('/assets/img/video-poster.jpg') no-repeat;
     background-size: cover;
-  transition: 1s opacity;
+    transition: 1s opacity;
 }
 .stopfade { 
    opacity: .5;
@@ -323,6 +365,7 @@ h1 {
     font-family: Futura, 'Trebuchet MS', Arial, sans-serif;
     font-weight:bold;
 }
+
 
 
 

@@ -9,46 +9,6 @@
     <img src="/assets/img/DLWP-Logo-black-RGB.jpg" alt="" class="de-la-warr-logo">
     </div>
     </div>
-    
-    
-    <script>
-    var vid = document.getElementById("bgvid");
-var pauseButton = document.querySelector(".video button");
-
-function vidFade() {
-  vid.classList.add("stopfade");
-}
-
-vid.addEventListener('ended', function()
-{
-// only functional if "loop" is removed 
-vid.pause();
-// to capture IE10
-vidFade();
-}); 
-
-
-pauseButton.addEventListener("click", function() {
-  
-  if (vid.paused) {
-    vid.play();
-    pauseButton.innerHTML = "Pause";
-  } else {
-    vid.pause();
-    pauseButton.innerHTML = "Paused";
-  }
-})
-
-
-
-vid.addEventListener('click',function(){
-    vid.play();
-},false);
-
-
-
-
-</script>
 
     
     

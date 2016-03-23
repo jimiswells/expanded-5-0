@@ -4,6 +4,7 @@
 @import 'foundation';
 @import 'motion-ui';
 @import 'main';
+@import '_media-queries';
 
 @include foundation-global-styles;
 @include foundation-grid;

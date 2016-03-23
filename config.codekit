@@ -3218,6 +3218,68 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/dist\/assets\/css\/owl.carousel.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/dist\/assets\/css\/owl.carousel.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/dist\/assets\/css\/owl.carousel.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/dist\/assets\/css\/owl.carousel.min.js",
+		"outputAbbreviatedPath": "\/dist\/assets\/css\/min\/owl.carousel.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/dist\/assets\/css\/owl.transitions.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/dist\/assets\/css\/owl.transitions.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/dist\/assets\/img\/DLWP-Logo-black-RGB.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 88946,
+		"inputAbbreviatedPath": "\/dist\/assets\/img\/DLWP-Logo-black-RGB.jpg",
+		"outputAbbreviatedPath": "\/dist\/assets\/img\/DLWP-Logo-black-RGB.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/dist\/assets\/img\/DLWP-Logo-white.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 50248,
+		"inputAbbreviatedPath": "\/dist\/assets\/img\/DLWP-Logo-white.png",
+		"outputAbbreviatedPath": "\/dist\/assets\/img\/DLWP-Logo-white.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/dist\/assets\/img\/IMG_3338.JPG": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1.19444e+06,
+		"inputAbbreviatedPath": "\/dist\/assets\/img\/IMG_3338.JPG",
+		"outputAbbreviatedPath": "\/dist\/assets\/img\/IMG_3338.JPG",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/dist\/assets\/img\/IMG_3339.JPG": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -3295,6 +3357,28 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/dist\/assets\/img\/IMG_3379.JPG": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1.46164e+06,
+		"inputAbbreviatedPath": "\/dist\/assets\/img\/IMG_3379.JPG",
+		"outputAbbreviatedPath": "\/dist\/assets\/img\/IMG_3379.JPG",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/dist\/assets\/img\/intro-2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 245807,
+		"inputAbbreviatedPath": "\/dist\/assets\/img\/intro-2.jpg",
+		"outputAbbreviatedPath": "\/dist\/assets\/img\/intro-2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/dist\/assets\/img\/intro.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -3368,6 +3452,15 @@
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
+	"\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/package.json": {
 		"fileType": 524288,
 		"ignore": 1,
@@ -3419,6 +3512,68 @@
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
+		},
+	"\/src\/assets\/css\/owl.carousel.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/assets\/css\/owl.carousel.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/src\/assets\/css\/owl.carousel.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/assets\/css\/owl.carousel.min.js",
+		"outputAbbreviatedPath": "\/src\/assets\/css\/min\/owl.carousel.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/src\/assets\/css\/owl.transitions.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/assets\/css\/owl.transitions.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/src\/assets\/img\/DLWP-Logo-black-RGB.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 88946,
+		"inputAbbreviatedPath": "\/src\/assets\/img\/DLWP-Logo-black-RGB.jpg",
+		"outputAbbreviatedPath": "\/src\/assets\/img\/DLWP-Logo-black-RGB.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/src\/assets\/img\/DLWP-Logo-white.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 50248,
+		"inputAbbreviatedPath": "\/src\/assets\/img\/DLWP-Logo-white.png",
+		"outputAbbreviatedPath": "\/src\/assets\/img\/DLWP-Logo-white.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/src\/assets\/img\/IMG_3338.JPG": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1.19444e+06,
+		"inputAbbreviatedPath": "\/src\/assets\/img\/IMG_3338.JPG",
+		"outputAbbreviatedPath": "\/src\/assets\/img\/IMG_3338.JPG",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
 		},
 	"\/src\/assets\/img\/IMG_3339.JPG": {
 		"fileType": 16384,
@@ -3497,6 +3652,28 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/src\/assets\/img\/IMG_3379.JPG": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1.46164e+06,
+		"inputAbbreviatedPath": "\/src\/assets\/img\/IMG_3379.JPG",
+		"outputAbbreviatedPath": "\/src\/assets\/img\/IMG_3379.JPG",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/src\/assets\/img\/intro-2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 245807,
+		"inputAbbreviatedPath": "\/src\/assets\/img\/intro-2.jpg",
+		"outputAbbreviatedPath": "\/src\/assets\/img\/intro-2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/src\/assets\/img\/intro.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -3541,6 +3718,44 @@
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
+	"\/src\/assets\/js\/owl.carousel.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/assets\/js\/owl.carousel.js",
+		"outputAbbreviatedPath": "\/src\/assets\/js\/min\/owl.carousel-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/src\/assets\/js\/owl.carousel.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/assets\/js\/owl.carousel.min.js",
+		"outputAbbreviatedPath": "\/src\/assets\/js\/min\/owl.carousel.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/src\/assets\/scss\/_media-queries.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/assets\/scss\/_media-queries.scss",
+		"outputAbbreviatedPath": "\/src\/assets\/css\/_media-queries.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
 	"\/src\/assets\/scss\/_settings.scss": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
@@ -3562,8 +3777,8 @@
 		"debugStyle": 0,
 		"decimalPrecision": 10,
 		"fileType": 4,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
+		"ignore": 1,
+		"ignoreWasSetByUser": 1,
 		"inputAbbreviatedPath": "\/src\/assets\/scss\/app.scss",
 		"outputAbbreviatedPath": "\/src\/assets\/css\/app.css",
 		"outputPathIsOutsideProject": 0,
