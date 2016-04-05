@@ -3247,6 +3247,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/dist\/assets\/css\/slick-theme.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/dist\/assets\/css\/slick-theme.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/dist\/assets\/img\/DLWP-Logo-black-RGB.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -3313,13 +3322,13 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/dist\/assets\/img\/IMG_3363.JPG": {
+	"\/dist\/assets\/img\/IMG_3363.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 2.07784e+06,
-		"inputAbbreviatedPath": "\/dist\/assets\/img\/IMG_3363.JPG",
-		"outputAbbreviatedPath": "\/dist\/assets\/img\/IMG_3363.JPG",
+		"inputAbbreviatedPath": "\/dist\/assets\/img\/IMG_3363.jpg",
+		"outputAbbreviatedPath": "\/dist\/assets\/img\/IMG_3363.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -3335,13 +3344,13 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/dist\/assets\/img\/IMG_3375.JPG": {
+	"\/dist\/assets\/img\/IMG_3375.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 1.83169e+06,
-		"inputAbbreviatedPath": "\/dist\/assets\/img\/IMG_3375.JPG",
-		"outputAbbreviatedPath": "\/dist\/assets\/img\/IMG_3375.JPG",
+		"inputAbbreviatedPath": "\/dist\/assets\/img\/IMG_3375.jpg",
+		"outputAbbreviatedPath": "\/dist\/assets\/img\/IMG_3375.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -3452,15 +3461,6 @@
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
-	"\/index.html": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/index.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
 	"\/package.json": {
 		"fileType": 524288,
 		"ignore": 1,
@@ -3542,6 +3542,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/src\/assets\/css\/slick-theme.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/assets\/css\/slick-theme.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/src\/assets\/img\/DLWP-Logo-black-RGB.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -3564,24 +3573,24 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/src\/assets\/img\/IMG_3338.JPG": {
+	"\/src\/assets\/img\/IMG_3338.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 1.19444e+06,
-		"inputAbbreviatedPath": "\/src\/assets\/img\/IMG_3338.JPG",
-		"outputAbbreviatedPath": "\/src\/assets\/img\/IMG_3338.JPG",
+		"inputAbbreviatedPath": "\/src\/assets\/img\/IMG_3338.jpg",
+		"outputAbbreviatedPath": "\/src\/assets\/img\/IMG_3338.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/src\/assets\/img\/IMG_3339.JPG": {
+	"\/src\/assets\/img\/IMG_3339.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 1.2724e+06,
-		"inputAbbreviatedPath": "\/src\/assets\/img\/IMG_3339.JPG",
-		"outputAbbreviatedPath": "\/src\/assets\/img\/IMG_3339.JPG",
+		"inputAbbreviatedPath": "\/src\/assets\/img\/IMG_3339.jpg",
+		"outputAbbreviatedPath": "\/src\/assets\/img\/IMG_3339.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -3608,13 +3617,13 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/src\/assets\/img\/IMG_3363.JPG": {
+	"\/src\/assets\/img\/IMG_3363.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 2.07784e+06,
-		"inputAbbreviatedPath": "\/src\/assets\/img\/IMG_3363.JPG",
-		"outputAbbreviatedPath": "\/src\/assets\/img\/IMG_3363.JPG",
+		"inputAbbreviatedPath": "\/src\/assets\/img\/IMG_3363.jpg",
+		"outputAbbreviatedPath": "\/src\/assets\/img\/IMG_3363.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -3630,35 +3639,35 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/src\/assets\/img\/IMG_3375.JPG": {
+	"\/src\/assets\/img\/IMG_3375.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 1.83169e+06,
-		"inputAbbreviatedPath": "\/src\/assets\/img\/IMG_3375.JPG",
-		"outputAbbreviatedPath": "\/src\/assets\/img\/IMG_3375.JPG",
+		"inputAbbreviatedPath": "\/src\/assets\/img\/IMG_3375.jpg",
+		"outputAbbreviatedPath": "\/src\/assets\/img\/IMG_3375.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/src\/assets\/img\/IMG_3378.JPG": {
+	"\/src\/assets\/img\/IMG_3378.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 1.53176e+06,
-		"inputAbbreviatedPath": "\/src\/assets\/img\/IMG_3378.JPG",
-		"outputAbbreviatedPath": "\/src\/assets\/img\/IMG_3378.JPG",
+		"inputAbbreviatedPath": "\/src\/assets\/img\/IMG_3378.jpg",
+		"outputAbbreviatedPath": "\/src\/assets\/img\/IMG_3378.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/src\/assets\/img\/IMG_3379.JPG": {
+	"\/src\/assets\/img\/IMG_3379.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 1.46164e+06,
-		"inputAbbreviatedPath": "\/src\/assets\/img\/IMG_3379.JPG",
-		"outputAbbreviatedPath": "\/src\/assets\/img\/IMG_3379.JPG",
+		"inputAbbreviatedPath": "\/src\/assets\/img\/IMG_3379.jpg",
+		"outputAbbreviatedPath": "\/src\/assets\/img\/IMG_3379.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0

@@ -1,10 +1,43 @@
 /* Small only */
 
 @media screen and (max-width: 39.9375em) {
-    .intro .intro-text {
-        width: 70%;
+    
+    
+    .top-bar {
+        padding: 0.5rem 0 !important; 
+   background-color:#000!important;
+    }
+    
+    .top-bar-left {
+        text-align:center;
+        width: 100%;
+    }
+    
+    .top-bar-right {
+        text-align:center;
+    }
+    
+    .menu > li > a {
+        padding: 5px 10px !important;
+        font-size:0.8em;
+    }
+        
+    
+    .intro-text {
+      
         display:none;
     }
+    
+    .intro {
+        height:500px;
+    }
+    
+    .owl-carousel {
+        margin-top: 0 !important;
+    }
+
+    
+    
     
     header .logo-white {
         width: 50%;
@@ -28,8 +61,29 @@
 /* Medium only */
 
 @media screen and (min-width: 40em) and (max-width: 63.9375em) {
-    .intro .intro-text {
-        width: 40%;
+    
+    
+    header .logo-white {
+        width: 50%;
+    }
+    
+    .owl-carousel {
+        margin-top: -140px !important;
+    }
+    
+    
+    .top-bar-left {
+       text-align:left;
+        
+    }
+    
+    .top-bar-right .menu {
+        padding-top:0.5rem;
+    }
+    
+   
+    .intro-text {
+       display:none;
     }
      
 }
